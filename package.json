@@ -1,6 +1,6 @@
 {
   "name": "react-adapt-to-width",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React 0.13 higher-order component to provide width as props",
   "main": "index.js",
   "scripts": {
