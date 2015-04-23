@@ -1,0 +1,19 @@
+{
+  "name": "react-adapt-to-width",
+  "version": "1.0.0",
+  "description": "A React 0.13 higher-order component to provide width as props",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard src/*",
+    "compile": "babel -d lib/ src/",
+    "prepublish": "npm run compile"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Frederick Fogerty",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.13.1"
+  }
+}
